@@ -9,3 +9,5 @@
 
 ![EZ](https://github.com/thunder439/EZPRINTHEAD/blob/main/EZ1.png)
 
+![EZ](https://github.com/thunder439/EZPRINTHEAD/blob/main/EZ2.png)
+
