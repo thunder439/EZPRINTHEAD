@@ -1,4 +1,4 @@
-# EZPRINTHEAD
+# EZ PRINTHEAD
 一款EASY简单的打印头
 
 
