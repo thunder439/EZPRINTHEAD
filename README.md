@@ -9,6 +9,7 @@
 
 挤出机电机使用36圆饼电机
 
+可适配挂载klicky IDM M8接近开关 等多种调平方案
 
 ![EZ](https://github.com/thunder439/EZPRINTHEAD/blob/main/EZ1.png)
 
